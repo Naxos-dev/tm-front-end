@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+<<<<<<< HEAD
 
       <b-navbar toggleable="lg" type="dark" variant="info">
     <b-navbar-brand href="#">NavBar</b-navbar-brand>
@@ -29,10 +30,15 @@
     <sidebar-menu :menu="menu" />
 
     
+=======
+    <img alt="Vue logo" src="./assets/logo.png">
+    <HelloWorld msg="Welcome to Your Vue.js App"/>
+>>>>>>> af6c6b0cc7cb5bd4d6e337d6669d7def9418a2e9
   </div>
 </template>
 
 <script>
+<<<<<<< HEAD
 
 export default {
         data() {
@@ -75,6 +81,8 @@ export default {
     }
 
 /*
+=======
+>>>>>>> af6c6b0cc7cb5bd4d6e337d6669d7def9418a2e9
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
@@ -83,11 +91,17 @@ export default {
     HelloWorld
   }
 }
+<<<<<<< HEAD
 */
 </script>
 
 <style>
 /*
+=======
+</script>
+
+<style>
+>>>>>>> af6c6b0cc7cb5bd4d6e337d6669d7def9418a2e9
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -96,5 +110,9 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+<<<<<<< HEAD
 */
 </style>
+=======
+</style>
+>>>>>>> af6c6b0cc7cb5bd4d6e337d6669d7def9418a2e9
